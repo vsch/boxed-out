@@ -1,0 +1,35 @@
+{
+  "name": "boxed-out",
+  "version": "0.1.0",
+  "description": "wrapper for plain Array or Object extending with common each, filter, map, reduce, etc functions",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Vladimir Schneider",
+    "email": "vladimir.schneider@gmail.com",
+    "url": "https://github.com/vsch"
+  },
+  "dependencies": {
+    "lodash.isfunction": "^3.0.9",
+    "util-type-funcs": "^0.2.2",
+    "obj-each-break": "^0.1.2"
+  },
+  "devDependencies": {
+    "jest": "^22.4.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "property looping",
+    "breakable loop"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vsch/boxed-out.git"
+  },
+  "homepage": "https://github.com/vsch/boxed-out",
+  "bugs": {
+    "url": "https://github.com/vsch/boxed-out/issues"
+  }
+}
