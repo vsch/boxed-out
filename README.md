@@ -1,6 +1,6 @@
 # boxed-out
 
-[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
+[![experimental](https://badges.github.io/stability-badges/dist/experimental.svg)](https://github.com/badges/stability-badges)
 
 Small utility library wrapping plain `Array` or `Object` to extend with each, map, filter,
 reduce using indeterminate ordering, left to right, right to left that operate on own properties
@@ -96,5 +96,5 @@ npm install boxed-out --save
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/vsch/boxed-out/blob/master/LICENSE.md) for details.
+MIT, see [LICENSE.md](https://github.com/vsch/boxed-out/raw/master/LICENSE.md) for details.
 
